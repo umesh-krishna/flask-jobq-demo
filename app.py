@@ -1,10 +1,11 @@
-from settings import *
-from flask import render_template
+from flask import render_template, Flask
 from flask import request, flash
 from flask_login import login_user
 from flask import session, redirect, url_for
 from flask_rq2 import RQ
 from flask_login import LoginManager
+from flask_sqlalchemy import SQLAlchemy
+from flask_migrate import Migrate
 
 app = Flask(__name__)
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///app.db'
