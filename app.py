@@ -31,11 +31,6 @@ def load_user(user_id):
     return models.User.query.filter_by(id=user_id).first()
 
 
-@app.route('/test/', methods=['GET', 'POST'])
-def test():
-    return 'TEST'
-
-
 @app.route('/', methods=['GET', 'POST'])
 def index():
     if request.method == 'GET':
