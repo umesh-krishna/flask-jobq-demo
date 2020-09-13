@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="85203098-a385-463c-aeaf-c1cb5aee8bae" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hSKxyS0xinBlxsHCxtkk0Hf5Jf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app.py" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="flask-jobqueue-demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="runserver 0.0.0;0:5000" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85203098-a385-463c-aeaf-c1cb5aee8bae" name="Default Changelist" comment="" />
+      <created>1599999303564</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599999303564</updated>
+    </task>
+    <task id="LOCAL-00001" summary="update requirements.txt">
+      <created>1599999732057</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599999732057</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update requirements.txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="update requirements.txt" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="169" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599999380797">
+      <screen x="57" y="27" width="1309" height="741" />
+    </state>
+    <state x="169" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/57.27.1309.741@57.27.1309.741" timestamp="1599999380797" />
+    <state x="315" y="27" width="782" height="741" key="CommitChangelistDialog2" timestamp="1599999731945">
+      <screen x="57" y="27" width="1309" height="741" />
+    </state>
+    <state x="315" y="27" width="782" height="741" key="CommitChangelistDialog2/57.27.1309.741@57.27.1309.741" timestamp="1599999731945" />
+    <state x="494" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1599999369707">
+      <screen x="57" y="27" width="1309" height="741" />
+    </state>
+    <state x="494" y="154" width="424" height="484" key="FileChooserDialogImpl/57.27.1309.741@57.27.1309.741" timestamp="1599999369707" />
+    <state width="1286" height="175" key="GridCell.Tab.0.bottom" timestamp="1599999616267">
+      <screen x="57" y="27" width="1309" height="741" />
+    </state>
+    <state width="1286" height="175" key="GridCell.Tab.0.bottom/57.27.1309.741@57.27.1309.741" timestamp="1599999616267" />
+    <state width="1286" height="175" key="GridCell.Tab.0.center" timestamp="1599999616265">
+      <screen x="57" y="27" width="1309" height="741" />
+    </state>
+    <state width="1286" height="175" key="GridCell.Tab.0.center/57.27.1309.741@57.27.1309.741" timestamp="1599999616265" />
+    <state width="1286" height="175" key="GridCell.Tab.0.left" timestamp="1599999616264">
+      <screen x="57" y="27" width="1309" height="741" />
+    </state>
+    <state width="1286" height="175" key="GridCell.Tab.0.left/57.27.1309.741@57.27.1309.741" timestamp="1599999616264" />
+    <state width="1286" height="175" key="GridCell.Tab.0.right" timestamp="1599999616266">
+      <screen x="57" y="27" width="1309" height="741" />
+    </state>
+    <state width="1286" height="175" key="GridCell.Tab.0.right/57.27.1309.741@57.27.1309.741" timestamp="1599999616266" />
+    <state x="200" y="31" key="SettingsEditor" timestamp="1599999354600">
+      <screen x="57" y="27" width="1309" height="741" />
+    </state>
+    <state x="200" y="31" key="SettingsEditor/57.27.1309.741@57.27.1309.741" timestamp="1599999354600" />
+  </component>
+</project>
