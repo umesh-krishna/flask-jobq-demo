@@ -25,7 +25,6 @@ def count_words(url, user_id):
         text_content = h.handle(response.text)  # ignore html tags, scripts and styles
         text_content = ''.join(e for e in text_content if (e.isalnum() or e == ' '))  # remove special characters
         count = len(text_content.split())
-        print(text_content.split(), file=sys.stdout)
     query.word_count = count
     db.session.add(query)
     db.session.commit()
